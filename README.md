@@ -100,7 +100,7 @@ pip install -r requirements.txt
 Запустіть основний файл скрипту:
 
 ```bash
-python translate_for_games_123.py
+python translate_for_games.py
 ```
 
 Програма запуститься і згорнеться в системний трей. Використовуйте гарячі клавіші для керування.
